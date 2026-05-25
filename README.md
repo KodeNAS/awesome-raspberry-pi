@@ -44,6 +44,7 @@ The complete collection of (consumer) Raspberry Pi models consist of:
 
 ## OS Images
 
+
 - [Alpine Linux](https://wiki.alpinelinux.org/wiki/Raspberry_Pi) - Security-oriented, lightweight Linux distribution based on musl libc and busybox.
 - [Arch Linux ARM](https://archlinuxarm.org/) - Lightweight and flexible Linux distribution that tries to Keep It Simple.
 - [Armbian](https://www.armbian.com/rpi4b/) - A base operating system platform for single board computers (SBCs) that other projects can trust to build upon.
@@ -64,6 +65,7 @@ The complete collection of (consumer) Raspberry Pi models consist of:
 - [Hass.io](https://home-assistant.io/hassio/installation/) - Home automation operating system/application for embedded device, also available standalone.
 - [HypriotOS](http://blog.hypriot.com/about/) - Minimal Debian-based operating system, optimized to run Docker.
 - [Kali Linux](https://www.offensive-security.com/kali-linux-arm-images/) - Penetration Testing & Ethical Hacking Linux distro for ARM devices.
+- [KODE OS](https://kodenas.dev/os) - Beginner-friendly home server distribution with a first-boot wizard, family-member profiles, and an OLED display daemon. Based on Raspberry Pi OS Lite and CasaOS. ([Source Code](https://github.com/KodeNAS/kode-os))
 - [KonstaKANG](https://konstakang.com/devices/rpi4/) - Unofficial LineageOS and AOSP builds for Raspberry Pi. ![Supports Raspberry Pi 3](/media/badges/rpi-3.png)
 - [Lakka](http://lakka.tv) - Retro-gaming on the Raspberry Pi built entirely on RetroArch.
 - [LibreELEC](https://libreelec.tv/) - Just enough OS for Kodi
